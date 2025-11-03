@@ -16,8 +16,7 @@ El objetivo principal es visualizar y analizar la criticidad de la provisión de
 
 ### Dashboard en Acción (Demostración de Interacción)
 
-<video src="https://github.com/CodeByAgus/Dashboard-PowerBI/raw/3113b6abcc184058abd3f2c92496e05f1132bb6f/00-12-45.mp4" width="100%" controls></video>
-
+![Demostración interactiva del dashboard](https://github.com/CodeByAgus/Dashboard-PowerBI/raw/b93e5f5accf3f4cda7163cd61ca5a8833319abcf/Dashboard%20interactuando.gif)
 ---
 
 ## 🔑 Características Principales
